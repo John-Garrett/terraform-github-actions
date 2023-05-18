@@ -7,6 +7,10 @@ jobs:
   terraform-unit-tests:
     name: 'Terraform Unit Tests'
     runs-on: ubuntu-latest
+
+    permissions:
+      # Required for codeql-action/upload-sarif
+      security-events: write
     
     steps:
     # Checkout the repository to the GitHub Actions runner
