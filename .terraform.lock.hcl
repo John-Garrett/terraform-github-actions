@@ -2,21 +2,21 @@
 # Manual edits may be lost in future updates.
 
 provider "registry.terraform.io/hashicorp/azurerm" {
-  version     = "3.71.0"
+  version     = "4.32.0"
   constraints = ">= 3.56.0"
   hashes = [
-    "h1:xySu+5dS0H9KYVsQoFp61uc5XLRKif9FrFs//OPNDrM=",
-    "zh:06f0d225b1711dfad256ff33134f878acc8f84624d9da66b075b075cc4d75892",
-    "zh:09ff74056818babe02ea5a633bffe2b8223eaf79916dc1db169651ef7725c22f",
-    "zh:27687e0f8458e6d88ebea94352eb523f56e8f5cdc468268af8f38dc4a4265bf4",
-    "zh:2d81bfab3c6a9b897fa8fbb5256c9e5a944e6ecbf7f73a2a3e2b53a2c4fbcfc5",
-    "zh:4cfc744cfc37aeeeecd82800c70e2591b38447af9e3c51bcbf06a5efe842ed65",
-    "zh:734fbb81508b264f772a076338ddf1c7b25534d2007a1738a7d55587478ed258",
-    "zh:9a5502c364f58073599fff8cdd8adc32e7f7bcd00a4d9b57d2fff678fd8a8319",
-    "zh:9bc528f7e78dbfd106f94b741b68dedd3dd3d31c3defcddcc1972c8e52a6b7db",
-    "zh:c30db03d877f9a7ae0c19d3fd338bbf95cdddbf6df1023709dbfa99689abac14",
-    "zh:c51d4065145b8f4ca45fc9a0f3ca7f2d933bc0302af2eead74f3ce64a9221ae8",
-    "zh:e23029fc7f81723795d7da770131adb1ce6f4d32f0a57eb75d47e036a0a19833",
+    "h1:XVqvIlBVXbTzGzXeIyuUDYmyA8NFmUgM3OiaQ8DA/hI=",
+    "zh:0ca3ad43d30e05222f53fcccfec912920a65d075c2acaeb2226f6ffad153df13",
+    "zh:0f8b71cfc4a158809251f7c16cfd808f4b58f4fc9519cee53ab1b6566cdcc496",
+    "zh:21f6766f79e3d096f480afb3cba2ff10e25cce6c26ceb97b2db720111f0593ce",
+    "zh:382845ee360f92448d3512aae3249b20078e5f65c4dd0b6eacd9fba4c79c8694",
+    "zh:43949a72782d2a3283f5c0dfc966612a4f9b8c031688dd1ef326514defcaed31",
+    "zh:453e02e206ea03f9607e68e35c5da561b2f80d2cd62842c3c8e85e4b6ce1535a",
+    "zh:525fedbc0ae6a2c7523a354c9ba4e1174485d03426f8ab4f86522961e94f8e8a",
+    "zh:673615eb2a333dcf2b6d656d0e8730cae2f6b41cc18ea874ab5e1e95993b0892",
+    "zh:7118a1c25c3b1cd3a8a3878fef1580703914ee211fee59d34d5ad922e70bb749",
+    "zh:c71918ee0fc519ecbb44da56423aea5cb68315f9033f9e817b01abd30f50dd97",
     "zh:f569b65999264a9416862bca5cd2a6177d94ccb0424f3a4ef424428912b9cb3c",
+    "zh:f5777fb86d78faafa9f31d7f0526932a142725a04e7fe6a555d40cf2ef4589b7",
   ]
 }
